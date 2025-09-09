@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lektion4/Car_v1/Car_v1.iml" filepath="$PROJECT_DIR$/Lektion4/Car_v1/Car_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion4/Car_v2/Car_v2.iml" filepath="$PROJECT_DIR$/Lektion4/Car_v2/Car_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion4/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Lektion4/Clock_v1/Clock_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeListing_2_11/CodeListing_2_11.iml" filepath="$PROJECT_DIR$/CodeListing_2_11/CodeListing_2_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeListing_2_9/CodeListing_2_9.iml" filepath="$PROJECT_DIR$/CodeListing_2_9/CodeListing_2_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion3/Email_v1/Email_v1.iml" filepath="$PROJECT_DIR$/Lektion3/Email_v1/Email_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_01/Exercise1_01.iml" filepath="$PROJECT_DIR$/Exercise1_01/Exercise1_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_02/Exercise1_02.iml" filepath="$PROJECT_DIR$/Exercise1_02/Exercise1_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_03/Exercise1_03.iml" filepath="$PROJECT_DIR$/Exercise1_03/Exercise1_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_04/Exercise1_04.iml" filepath="$PROJECT_DIR$/Exercise1_04/Exercise1_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion1/Exercise1_05/Exercise1_05.iml" filepath="$PROJECT_DIR$/Lektion1/Exercise1_05/Exercise1_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion1/Exercise1_07/Exercise1_07.iml" filepath="$PROJECT_DIR$/Lektion1/Exercise1_07/Exercise1_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion1/Exercise1_08/Exercise1_08.iml" filepath="$PROJECT_DIR$/Lektion1/Exercise1_08/Exercise1_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Exercise2_004/Exercise2_004.iml" filepath="$PROJECT_DIR$/Lektion2/Exercise2_004/Exercise2_004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Exercise2_01/Exercise2_01.iml" filepath="$PROJECT_DIR$/Lektion2/Exercise2_01/Exercise2_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Exercise2_02/Exercise2_02.iml" filepath="$PROJECT_DIR$/Lektion2/Exercise2_02/Exercise2_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Exercise2_03/Exercise2_03.iml" filepath="$PROJECT_DIR$/Lektion2/Exercise2_03/Exercise2_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2_04/Exercise2_04.iml" filepath="$PROJECT_DIR$/Exercise2_04/Exercise2_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Exercise2_05/Exercise2_05.iml" filepath="$PROJECT_DIR$/Lektion2/Exercise2_05/Exercise2_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Exercise2_06/Exercise2_06.iml" filepath="$PROJECT_DIR$/Lektion2/Exercise2_06/Exercise2_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion1/Lektion1.iml" filepath="$PROJECT_DIR$/Lektion1/Lektion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Lektion2.iml" filepath="$PROJECT_DIR$/Lektion2/Lektion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion3/Lektion3.iml" filepath="$PROJECT_DIR$/Lektion3/Lektion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion4/Lektion4.iml" filepath="$PROJECT_DIR$/Lektion4/Lektion4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion4/MyDate_v1/MyDate_v1.iml" filepath="$PROJECT_DIR$/Lektion4/MyDate_v1/MyDate_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion3/Name_v1/Name_v1.iml" filepath="$PROJECT_DIR$/Lektion3/Name_v1/Name_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO1.iml" filepath="$PROJECT_DIR$/PRO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion4/Person_v1/Person_v1.iml" filepath="$PROJECT_DIR$/Lektion4/Person_v1/Person_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/TestClass/TestClass.iml" filepath="$PROJECT_DIR$/Lektion2/TestClass/TestClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion3/UndervisningTest/UndervisningTest.iml" filepath="$PROJECT_DIR$/Lektion3/UndervisningTest/UndervisningTest.iml" />
+    </modules>
+  </component>
+</project>
