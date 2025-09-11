@@ -55,6 +55,30 @@ public class Person
     this.age = newAge;
   }
 
+  public String getStatus()
+  {
+    if (age < 0)
+    {
+      return "Error";
+    }
+    else if (age >= 18 && (gender == 'M' || gender == 'm'))
+    {
+      return "Man";
+    }
+    else if (age >= 18 && (gender == 'F' || gender == 'f'))
+    {
+      return "Woman";
+    }
+    else if (age < 18 && !(gender == 'M' || gender == 'm'))
+    {
+      return "Girl";
+    }
+    else
+    {
+      return "Null";
+    }
+  }
+
   public String getAgeStatus()
   {
     if (age < 0)
@@ -80,12 +104,7 @@ public class Person
     {
       return "Senior";
     }
-
-
   }
-
-
-
 
   public String toString()
   {

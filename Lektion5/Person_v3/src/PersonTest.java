@@ -24,6 +24,7 @@ public class PersonTest
         person1.getAge() + "\n" +
         person1.getGender());
 
-    System.out.println(person1.getAgeStatus());
+    System.out.println(person1.getStatus());
+
   }
 }
