@@ -27,7 +27,7 @@ public class Colour
     }
     else if (green < 0)
     {
-      this.greeb = 0;
+      this.green = 0;
     }
 
     //Blue
