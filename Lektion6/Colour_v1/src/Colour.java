@@ -39,6 +39,29 @@ public class Colour
     {
       this.blue = 0;
     }
+  }
+
+  public Colour(String hex)
+  {
+    if (hex.length() > 7 || (hex.length() < 6))
+    {
+      hex = "#FFFFFF";
+    }
+
+    String hexRed;
+    String hexGreen;
+    String hexBlue;
+
+    //hexRed
+    hexRed = hex.substring(1,3);
+
+    //hedGreen
+    hexGreen = hex.substring(3,5);
+
+    //hexBlue
+    hexBlue = hex.substring(5,7);
+
+
 
 
   }
