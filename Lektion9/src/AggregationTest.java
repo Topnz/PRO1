@@ -1,5 +1,7 @@
 public class AggregationTest
 {
+
+
   public static void main(String[] args)
   {
     Name name = new Name("Bob", "Jensen");
@@ -7,5 +9,8 @@ public class AggregationTest
 
     System.out.println(person1);
     System.out.println(person1.getStatus());
+
+
+
   }
 }
