@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lektion12/Aflevering 3/Aflevering 3.iml" filepath="$PROJECT_DIR$/Lektion12/Aflevering 3/Aflevering 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion4/Car_v1/Car_v1.iml" filepath="$PROJECT_DIR$/Lektion4/Car_v1/Car_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion4/Car_v2/Car_v2.iml" filepath="$PROJECT_DIR$/Lektion4/Car_v2/Car_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion4/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Lektion4/Clock_v1/Clock_v1.iml" />
@@ -31,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lektion1/Lektion1.iml" filepath="$PROJECT_DIR$/Lektion1/Lektion1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion10/Lektion10.iml" filepath="$PROJECT_DIR$/Lektion10/Lektion10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion11/Lektion11.iml" filepath="$PROJECT_DIR$/Lektion11/Lektion11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion12/Lektion12.iml" filepath="$PROJECT_DIR$/Lektion12/Lektion12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion2/Lektion2.iml" filepath="$PROJECT_DIR$/Lektion2/Lektion2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion3/Lektion3.iml" filepath="$PROJECT_DIR$/Lektion3/Lektion3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion4/Lektion4.iml" filepath="$PROJECT_DIR$/Lektion4/Lektion4.iml" />
