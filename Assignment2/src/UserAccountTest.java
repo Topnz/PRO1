@@ -63,8 +63,6 @@ public class UserAccountTest
     System.out.println("\nUser account created:");
     System.out.println(account);
 
-    input.close();
-
     // Calls readPassword
     String newPassword = readPassword(input);
 
@@ -84,5 +82,11 @@ public class UserAccountTest
     // Different data
     UserAccount differentAccount = new UserAccount("Preben", "PebenGamings", "PrebenErHot123");
     System.out.println("Compare with different data: " + account.equals(differentAccount)); // false
+
+    input.close();
+
+
   }
+
+
 }
